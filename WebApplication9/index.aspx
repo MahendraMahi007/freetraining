@@ -21,7 +21,7 @@
     <form id="form1" runat="server">
         
         <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
-  <a class="navbar-brand" href="#">ONLINE TRAINING</a>
+  <a class="navbar-brand" href="#">FREE ONLINE TRAINING</a>
 
   <!-- Links -->
   <ul  class="navbar-nav">
